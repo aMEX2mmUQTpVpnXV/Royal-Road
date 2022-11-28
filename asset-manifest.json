@@ -1,14 +1,27 @@
 {
   "files": {
-    "main.css": "/Royal-Road/static/css/main.073c9b0a.css",
-    "main.js": "/Royal-Road/static/js/main.b9c67b0c.js",
-    "static/media/logo.svg": "/Royal-Road/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Royal-Road/static/css/main.23ac08ce.css",
+    "main.js": "/Royal-Road/static/js/main.44d9f37d.js",
+    "static/media/the-armorer-and-the-infinite-dungeon-progression.png": "/Royal-Road/static/media/the-armorer-and-the-infinite-dungeon-progression.2f04405e83a0fd9ae8f2.png",
+    "static/media/mother-of-learning.jpeg": "/Royal-Road/static/media/mother-of-learning.35beed9d1fdf70d822b6.jpeg",
+    "static/media/mark_of_the_fool.jpeg": "/Royal-Road/static/media/mark_of_the_fool.f23a4198d3426d49d397.jpeg",
+    "static/media/dawn-of-the-void-a-litrpg-apocalypse.png": "/Royal-Road/static/media/dawn-of-the-void-a-litrpg-apocalypse.d55373e7bdc352d80c25.png",
+    "static/media/all-the-dust-that-falls-a-roomba-isekai.png": "/Royal-Road/static/media/all-the-dust-that-falls-a-roomba-isekai.d9b9a4b7e3d7f1727cbb.png",
+    "static/media/all-the-skills-a-deckbuilding-litrpg.png": "/Royal-Road/static/media/all-the-skills-a-deckbuilding-litrpg.b9925862582c8184cbe9.png",
+    "static/media/journey-of-the-immortal-grandmaster.png": "/Royal-Road/static/media/journey-of-the-immortal-grandmaster.b28b0b3668a6f2679fe9.png",
+    "static/media/berry-barry.png": "/Royal-Road/static/media/berry-barry.a831be66ceb355f40e36.png",
+    "static/media/the-path-of-ascension.jpeg": "/Royal-Road/static/media/the-path-of-ascension.929e929b7045d97de1ec.jpeg",
+    "static/media/chaotic-craftsman-worships-the-cube.jpeg": "/Royal-Road/static/media/chaotic-craftsman-worships-the-cube.a0ebb9e4195669d05259.jpeg",
+    "static/media/the-primal-hunter.jpeg": "/Royal-Road/static/media/the-primal-hunter.f2459b3001e83ee5d23a.jpeg",
+    "static/media/book-of-the-dead.jpeg": "/Royal-Road/static/media/book-of-the-dead.becac95e3d117d3a1913.jpeg",
+    "static/media/the-essence-of-cultivation.jpeg": "/Royal-Road/static/media/the-essence-of-cultivation.dbfb20a100ac6d628302.jpeg",
+    "static/media/ave-xia-rem-y.jpeg": "/Royal-Road/static/media/ave-xia-rem-y.5e8e6fb7b787f2da6beb.jpeg",
     "index.html": "/Royal-Road/index.html",
-    "main.073c9b0a.css.map": "/Royal-Road/static/css/main.073c9b0a.css.map",
-    "main.b9c67b0c.js.map": "/Royal-Road/static/js/main.b9c67b0c.js.map"
+    "main.23ac08ce.css.map": "/Royal-Road/static/css/main.23ac08ce.css.map",
+    "main.44d9f37d.js.map": "/Royal-Road/static/js/main.44d9f37d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b9c67b0c.js"
+    "static/css/main.23ac08ce.css",
+    "static/js/main.44d9f37d.js"
   ]
 }
